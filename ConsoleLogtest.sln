@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleLogtest", "ConsoleLogtest\ConsoleLogtest.csproj", "{DA7C91EF-2B69-4006-97AD-79379479E835}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA7C91EF-2B69-4006-97AD-79379479E835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA7C91EF-2B69-4006-97AD-79379479E835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA7C91EF-2B69-4006-97AD-79379479E835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA7C91EF-2B69-4006-97AD-79379479E835}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C24E59D-03A1-4BD9-A029-3E091B9E896E}
+	EndGlobalSection
+EndGlobal
