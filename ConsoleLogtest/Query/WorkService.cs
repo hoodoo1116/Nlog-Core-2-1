@@ -13,7 +13,7 @@ namespace ConsoleLogtest.Query
 
         public List<SearchParameter> Work()
         {
-            return _handler.Handle(new SearchParameter { Id = 1, DateOf = new DateTime(1901, 1, 1, 1, 1, 1, 1), value = "junk" }).Result;
+            return _handler.Handle(new SearchParameter { Id = 1, DateOf = new DateTime(1901, 1, 1, 1, 1, 1, 1), Value = "junk" }).Result;
 
         }
     }

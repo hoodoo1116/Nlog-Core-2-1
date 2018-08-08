@@ -6,6 +6,6 @@ namespace ConsoleLogtest.Query
     {
         public int Id { get; set; }
         public DateTime DateOf { get; set; }
-        public string value { get; set; }
+        public string Value { get; set; }
     }
 }

@@ -21,7 +21,7 @@ namespace ConsoleLogtest
 
             var work = servicesProvider.GetRequiredService<WorkService>();
             work.Work().ForEach(x => {
-                Console.WriteLine($"{x.Id} {x.DateOf} {x.value}");
+                Console.WriteLine($"{x.Id} {x.DateOf} {x.Value}");
                 }
             );
 
